@@ -13,6 +13,7 @@
 		1891BC5019D52AF300CD9D14 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1891BC4F19D52AF300CD9D14 /* Images.xcassets */; };
 		1891BC5319D52AF300CD9D14 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1891BC5119D52AF300CD9D14 /* LaunchScreen.xib */; };
 		1891BC5F19D52AF400CD9D14 /* Facebook_AnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1891BC5E19D52AF400CD9D14 /* Facebook_AnimationTests.swift */; };
+		1891BC6919D52DC300CD9D14 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1891BC6819D52DC300CD9D14 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1891BC5819D52AF400CD9D14 /* Facebook AnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Facebook AnimationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1891BC5D19D52AF400CD9D14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1891BC5E19D52AF400CD9D14 /* Facebook_AnimationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Facebook_AnimationTests.swift; sourceTree = "<group>"; };
+		1891BC6819D52DC300CD9D14 /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				1891BC4F19D52AF300CD9D14 /* Images.xcassets */,
 				1891BC5119D52AF300CD9D14 /* LaunchScreen.xib */,
 				1891BC4619D52AF300CD9D14 /* Supporting Files */,
+				1891BC6819D52DC300CD9D14 /* PhotoViewController.swift */,
 			);
 			path = "Facebook Animation";
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			files = (
 				1891BC4B19D52AF300CD9D14 /* ViewController.swift in Sources */,
 				1891BC4919D52AF300CD9D14 /* AppDelegate.swift in Sources */,
+				1891BC6919D52DC300CD9D14 /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
